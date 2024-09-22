@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <h1>contact</h1>
-    </div>
+    <header>
+        <h2>Контакты</h2>
+    </header>
 </template>

@@ -1,5 +1,5 @@
 <template>
-    <div>
-        <h1>about</h1>
-    </div>
+    <header>
+        <h2>Обо мне</h2>
+    </header>
 </template>
